@@ -41,7 +41,7 @@ The project was built entirely from scratch — handling frontend layout, event 
 | GUI Framework        | PyQt5                                     |
 | IDE                  | Any (VS Code / PyCharm / Terminal Editor) |
 
----
+
 
 ### 🚀 How to Run
 
