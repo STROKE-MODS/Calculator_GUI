@@ -74,7 +74,7 @@ The project was built entirely from scratch — handling frontend layout, event 
 
 ```
 
----
+
 
 ### 🎯 Future Improvements
 
