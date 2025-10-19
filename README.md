@@ -71,8 +71,7 @@ The project was built entirely from scratch — handling frontend layout, event 
 <img width="1745" height="981" alt="Screenshot_2025-10-20_01_28_37" src="https://github.com/user-attachments/assets/b3891ae9-83d5-4da8-bc4d-53a476ecf8fe" />
 
 
-```
-📸 Screenshot coming soon...
+
 ```
 
 ---
