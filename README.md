@@ -48,7 +48,7 @@ The project was built entirely from scratch — handling frontend layout, event 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Calculator.git
+   git clone https://github.com/STROKE-MODS/Calculator.git
    cd Calculator
    ```
 
